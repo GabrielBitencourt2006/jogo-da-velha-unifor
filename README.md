@@ -13,7 +13,7 @@ Especificação de Caso de Uso [`docs/cdu_JogarJogodavelha.md`](docs/cdu_JogarJo
 | **Aluno** | Gabriel Pereira Bitencourt Nogueira |
 | **Matrícula** | 2520505 |
 | **Instituição** | Universidade de Fortaleza (UNIFOR) |
-| **Disciplina** | Engenharia de Software / Desenvolvimento Web |
+| **Disciplina** | Requisitos e mod de sistemas |
 | **Artefato-guia** | CDU *Jogar Jogo da Velha* — v1.0 (08/08/2026) |
 
 ---
